@@ -15,5 +15,3 @@ More info can be found in the discord this will be updated soon.
 - Server/Bot: https://discord.gg/q8z9mKU48Y
 - Versions:2010-2015
 - This API will use some custom stuff to achieve execution and possibly renders in the future
- 
-- PENIS!
